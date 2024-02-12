@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student at
+role: PhD Student 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: TU Ilmenau
@@ -75,13 +75,6 @@ work:
     company_logo: assets\media\icons\bitmovin-icon.jpeg
     date_start: 2021-08
     date_end: 2021-11
-    summary: |2-
-      Responsibilities include:
-      - Used FFmpeg(command line based tool) to deploy different Nvidia GPU-based video
-codecs(h264_nvenc, hevc_nvenc) in GPU and compared their performance.
-      - Used VQMT(Video Quality Measurement Tool) and Python script to test how much
-GPU can accelerate vmaf and PSNR calculation.
-      - Delivered presentation and report.
  
 languages:
   - name: Chinese
