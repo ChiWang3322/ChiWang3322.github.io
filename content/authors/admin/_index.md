@@ -45,7 +45,11 @@ education:
     date_start: 2023-11-15
     date_end: ''
     summary: |
-      Since Nov.2023 I worked as a PhD student at Technische Universität Ilmenau Communication Research Lab and advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). My research interests lie in Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.), Massive MIMO, Machine Learning for Signal Processing.
+      PhD student at Technische Universität Ilmenau Communication Research Lab, advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). 
+      Research interests:
+       - Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.) 
+       - Massive MIMO
+       - Machine Learning for Signal Processing.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -130,4 +134,4 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 # ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Since Nov.2023 I worked as a PhD student at Technische Universität Ilmenau Communication Research Lab and advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). My research interests lie in Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.), Massive MIMO, Machine Learning for Signal Processing.
