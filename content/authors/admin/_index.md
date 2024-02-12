@@ -45,7 +45,7 @@ education:
     date_start: 2023-11-15
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Since Nov.2023 I worked as a PhD student at Technische Universität Ilmenau Communication Research Lab and advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). My research interests lie in Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.), Massive MIMO, Machine Learning for Signal Processing.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -74,26 +74,26 @@ education:
 work:
   - position: Video Codec Intern
     company_name: Bitmovin
-    company_url: 'https://bitmovin.com'
-    company_logo: 'assets\media\icons\bitmovin-icon.jpeg'
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    company_url: https://bitmovin.com
+    company_logo: assets\media\icons\bitmovin-icon.jpeg
+    date_start: 2021-08-01
+    date_end: 2021-11-01
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
