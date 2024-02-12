@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王驰
+title: ''
 
 # Name pronunciation (optional)
 name_pronunciation: WANG Chi
