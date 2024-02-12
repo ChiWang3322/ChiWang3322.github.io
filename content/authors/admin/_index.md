@@ -46,6 +46,7 @@ education:
     date_end: ''
     summary: |
       PhD student at Technische Universität Ilmenau Communication Research Lab, advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). 
+
       Research interests:
        - Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.) 
        - Massive MIMO
@@ -82,7 +83,7 @@ work:
     company_logo: ''
     date_start: 2023-11-15
     date_end: ''
-    summary: |
+    summary: | 
       This is a industrial PhD programm initialized by Huawei Technologies and TU Ilmenau
 
   - position: Video Codec Intern
@@ -134,4 +135,7 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Since Nov.2023 I worked as a PhD student at Technische Universität Ilmenau Communication Research Lab and advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). My research interests lie in Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.), Massive MIMO, Machine Learning for Signal Processing.
+I am currently a first-year PhD student at the Communication Research Lab, [TU Ilmenau](https://www.tu-ilmenau.de). I am fortunate to be supervised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). This PhD Programm is collabrated with Huawei Technologies Munich Research Center. My research interests lie in Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.), Massive MIMO, Machine Learning for Signal Processing.
+
+I received my Bachelor’s degree in 2019 from [Shandong University(SDU)](https://www.sdu.edu.cn/). Then I studied at [Technische Universität München(TUM)](https://www.tum.de) and obtained my Master's degree in Communications Engineering. Since Nov.2023 I started my PhD at [Technische Universität Ilmenau](https://www.tu-ilmenau.de) and Huawei Munich Research Center.
+
