@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chi Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chi Wang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chi 
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student at TU Ilmenau
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: chi.wang@tu-ilmenau.de
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
