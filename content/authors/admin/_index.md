@@ -3,7 +3,7 @@
 title: ''
 
 # Name pronunciation (optional)
-name_pronunciation: WANG Chi
+name_pronunciation: Chi Wang
 
 # Full name (for SEO)
 first_name: Chi
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student at
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -27,9 +27,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'chi.wang@tu-ilmenau.de'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'chi.wang@tu-ilmenau.de'
+  #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
@@ -40,42 +40,42 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD. Communications Engineering
+    institution: Technische Universität Ilmenau
+    date_start: 2023-11-15
+    date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: M.Sc. Communications Engineering
+    institution: Technische Universität München
+    date_start: 2020-10-01
+    date_end: 2023-08-01
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: B.Sc. Electronic Information Science and Technology
+    institution: Shandong University
+    date_start: 2015-09-01
+    date_end: 2019-07-01
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+  - position: Video Codec Intern
+    company_name: Bitmovin
+    company_url: 'https://bitmovin.com'
+    company_logo: 'assets\media\icons\bitmovin-icon.jpeg'
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
