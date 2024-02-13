@@ -139,3 +139,8 @@ I am currently a first-year PhD student at the Communication Research Lab, [TU I
 
 I received my Bachelor’s degree in 2019 from [Shandong University(SDU)](https://www.sdu.edu.cn/). Then I studied at [Technische Universität München(TUM)](https://www.tum.de) and obtained my Master's degree in Communications Engineering. Since Nov.2023 I started my PhD at [Technische Universität Ilmenau](https://www.tu-ilmenau.de) and Huawei Munich Research Center.
 
+Contact me at:
+
+- [chi.wang@tu-ilmenau.de](chi.wang@tu-ilmenau.de)
+- Huawei Germany-Munich-European Research Center, Riesstr. 25, 80992 München
+
