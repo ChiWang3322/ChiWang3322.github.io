@@ -26,11 +26,11 @@ marketing:
     google: ''
     baidu: ''
 
-# Site header
-# header:
-#   navbar:
-#     enable: true
-#     blox: floating-theme-toggler
+Site header
+header:
+  navbar:
+    enable: true
+    blox: floating-theme-toggler
 
 # # Site footer
 # footer:
