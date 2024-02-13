@@ -27,20 +27,20 @@ marketing:
     baidu: ''
 
 # Site header
-header:
-  navbar:
-    enable: true
-    blox: floating-theme-toggler
+# header:
+#   navbar:
+#     enable: true
+#     blox: floating-theme-toggler
 
-# Site footer
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# # Site footer
+# footer:
+#   copyright:
+#     notice: '© {year} Me. This work is licensed under {license}'
+#     license:
+#       enable: false
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
 # Localization
 locale:
