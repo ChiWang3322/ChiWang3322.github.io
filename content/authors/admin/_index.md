@@ -45,7 +45,7 @@ education:
     date_start: 2023-11-15
     date_end: ''
     summary: |
-      PhD student at Technische Universität Ilmenau Communication Research Lab, advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). 
+      PhD student at Technische Universität Ilmenau [Communication Research Lab](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/communications-research-laboratory), advised by [Prof. Martin Haardt](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-nachrichtentechnik/martin-haardt). 
 
       Research interests:
        - Array signal Processing(with specific focus on Beam Alignment, DoA Estimation, etc.) 
