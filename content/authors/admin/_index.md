@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ''
+title: 王驰
 
 # Name pronunciation (optional)
 name_pronunciation: Chi Wang
